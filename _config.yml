@@ -1,5 +1,6 @@
 url: http://www.anotherbit.com
-baseurl: /index.html
+#baseurl: /index.html
+baseurl: /agency-jekyll-theme/
 
 # Site settings
 title: AnotherBit
