@@ -1,6 +1,8 @@
-url: http://www.anotherbit.com
-#baseurl: /index.html
+url: https://y7kim.github.io
 baseurl: /agency-jekyll-theme/
+#url: http://www.anotherbit.com
+#baseurl: /index.html
+#baseurl: /agency-jekyll-theme/
 
 # Site settings
 title: AnotherBit
