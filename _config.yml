@@ -1,20 +1,17 @@
 url: https://y7kim.github.io
 baseurl: /agency-jekyll-theme/
-#url: http://www.anotherbit.com
-#baseurl: /index.html
-#baseurl: /agency-jekyll-theme/
 
 # Site settings
-title: AnotherBit
-email: addanotherbit@gmail.com
+title: Awesome Title
+email: your-email@domain.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 
 # Team names, titles and social links
 people:
-- name: David White
+- name: Kay Garland
   pic: 1
-  position: Lead Developer
+  position: Lead Designer
   social:
     - title: twitter
       url: #
@@ -23,9 +20,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Jennifer White
+- name: Larry Parker
   pic: 2
-  position: Graphic Designer
+  position: Lead Marketer
   social:
     - title: twitter
       url: #
