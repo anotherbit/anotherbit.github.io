@@ -1,0 +1,13 @@
+---
+title: Role Cast
+subtitle: An unofficial companion app to Don Eskridge's The Resistance and Avalon.
+layout: default
+modal-id: 1
+date: 2016-08-13
+img: rolecast.png
+thumbnail: rolecast-thumbnail.png
+alt: image-alt
+description: As avid fans of The Resistance and Avalon published by Indie Boards & Cards, we created this unofficial companion app that simplifies and improves game setup--in particular the assignment of a role and revealing of information to each player.  <i>You must own a physical copy of at least one of these games in order to take advantage of this app</i>.  This app automates the assignment of roles and information to each player without the hassle of some unfortunate player needing to read the setup script--no closing of eyes, no sticking up of thumbs, etc!  With hundreds of games played, we've come up with some incredibly fun unofficial bonus roles that can be accessed by purchasing the pro version of Role Cast.  Have fun!
+play: <a href='https://play.google.com/store/apps/details?id=com.twocups.rolecast.adv&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' height=80px src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
+
+---
