@@ -3,7 +3,7 @@ title: Role Cast
 subtitle: An unofficial companion app to Don Eskridge's The Resistance and Avalon.
 layout: default
 modal-id: 1
-date: 2016-08-13
+date: 2016-08-21
 img: rolecast.png
 thumbnail: rolecast-thumbnail.png
 alt: image-alt
